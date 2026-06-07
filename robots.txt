@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djedjemi0.github.io/couloir-grossiste/sitemap.xml
